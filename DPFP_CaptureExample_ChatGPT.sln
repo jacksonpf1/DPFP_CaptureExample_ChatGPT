@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPFP_CaptureExample_ChatGPT", "DPFP_CaptureExample_ChatGPT\DPFP_CaptureExample_ChatGPT.csproj", "{1B3BFE18-7B22-4E24-BF05-C1E4696E9BDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B3BFE18-7B22-4E24-BF05-C1E4696E9BDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B3BFE18-7B22-4E24-BF05-C1E4696E9BDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B3BFE18-7B22-4E24-BF05-C1E4696E9BDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B3BFE18-7B22-4E24-BF05-C1E4696E9BDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AF04904-527B-4BB2-B701-1E917B9069D9}
+	EndGlobalSection
+EndGlobal
